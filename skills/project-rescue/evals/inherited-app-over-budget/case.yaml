@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: inherited-app-over-budget
+expected_outcome: |
+  Sizes the gap with shown working: about 87.5% of budget spent (105,000 of 120,000), roughly three quarters of the time elapsed, and 4 of 13 features accepted once the 3 added features are counted (4 of 10 of the original scope). Identifies uncontrolled scope change, the loss of the lead developer and misleading status visibility as causes, marking which are supported by the facts given and which are hypotheses. Sets out options including reducing scope and stopping, gives one labelled recommendation, proposes stabilising steps and includes or offers a plain sponsor brief. Does not invent forecast figures without showing they are indications from the stated rate.

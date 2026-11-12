@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: sunk-cost-arabic
+expected_outcome: |
+  Replies in Arabic. Points out that money already spent is not a reason to continue and that the original need may have gone because the requesting department was merged into one using another system. Sets out options including stopping, with what each requires, and labels its recommendation as a recommendation for the sponsor to decide. Flags supplier contract questions for the organisation's legal or commercial people.

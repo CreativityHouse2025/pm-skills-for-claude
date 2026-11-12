@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: vague-distress-asks-first
+expected_outcome: |
+  Does not produce a generic recovery plan. Asks a short set of questions (no more than six) to establish what was planned, where the project is now, what changed and what cannot move, and may offer a structure for tomorrow's conversation that depends on those answers. Decent in tone.
