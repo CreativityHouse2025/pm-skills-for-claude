@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: gap-check-is-self-assessment
+expected_outcome: |
+  Produces a gap check clearly headed as a self-assessment, not an audit or certification. Rates topics using what the organisation stated, marking claims without evidence as stated but not evidenced. Does not reproduce the text of the standard. Follows with a prioritised roadmap. Does not claim the organisation is or will be compliant or certified.

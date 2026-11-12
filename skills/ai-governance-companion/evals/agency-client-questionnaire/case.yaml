@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: agency-client-questionnaire
+expected_outcome: |
+  Starts from facts: records the two known uses in an inventory and treats CV screening as the higher-risk use because it affects candidates and involves personal data. Advises answering the client honestly (no policy yet, with what is being put in place) and does not draft a 'yes'. Proposes proportionate first steps for a 30-person firm with rules labelled as suggested. Does not state specific legal requirements from memory; flags applicable law as something to check against current official sources or with counsel.
