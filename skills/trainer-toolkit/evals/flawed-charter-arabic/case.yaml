@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: flawed-charter-arabic
+expected_outcome: |
+  Writes in Arabic. Produces an invented project charter set in a construction or contracting context containing five to eight deliberate mistakes drawn from what makes a charter good (for example an objective with no measure, no stated authority for the project manager, missing exclusions, a contradiction between figures, no approval line), plus a trainer-only answer key listing each mistake, why it matters and the corrected version. Does not reproduce text from any certification body.

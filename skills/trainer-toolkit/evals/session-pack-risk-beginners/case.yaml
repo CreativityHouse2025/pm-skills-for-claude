@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: session-pack-risk-beginners
+expected_outcome: |
+  Produces a session pack sized to 45 minutes for groups of beginners: a short invented case with specific names, dates, a budget and a built-in tension; a single focused risk-register task; and a separate trainer copy with timing, a model answer or answer key consistent with the case, debrief questions and a simple rubric or criteria. Learner handout and trainer material are clearly separated. Does not interview at length; states its assumptions.

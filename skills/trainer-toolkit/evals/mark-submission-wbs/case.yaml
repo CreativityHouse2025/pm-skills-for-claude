@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: mark-submission-wbs
+expected_outcome: |
+  Notes that the case was not provided and either asks for it or marks only what is on the page while saying so. Builds and shows a short rubric from what makes a WBS good, then marks each criterion with a level and evidence from the submission: elements are activities rather than deliverables, no hierarchy or codes, no work packages, project management work missing. Gives specific strengths and the two or three most useful improvements with an example of a better version. States that the trainer makes the final marking decision.
