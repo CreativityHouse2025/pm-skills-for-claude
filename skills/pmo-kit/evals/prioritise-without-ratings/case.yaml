@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: prioritise-without-ratings
+expected_outcome: |
+  Replies in Arabic. Does not rank the five projects from its own judgement. Proposes a small set of criteria with suggested weights totalling 100 and a defined rating scale, labelled as suggested, and asks the organisation for the ratings (or the facts needed to rate), possibly with a blank scoring table listing the five projects. States that the score informs the decision.

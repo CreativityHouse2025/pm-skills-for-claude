@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: portfolio-report-rule-based-colours
+expected_outcome: |
+  Leads with a short decisions-needed section (P-102 extra 40,000 for data migration). Applies the stated colour rules to the numbers: P-101 is Green (5% over); P-102 is Red (26% over and a leadership decision needed) although reported Amber; P-103 is Amber (15% over on spend) although reported Green; P-104 has no spend figures and its report is stale (11 April against a monthly rhythm), so it is shown as not reported or self-reported with the gap flagged, not as Green by rule. Totals are calculated and shown: total budget 700,000; actual spend reported 349,500 across three projects against planned 300,000. Invents no figures for P-104.
