@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: messy-client-call-notes
+expected_outcome: |
+  Produces a record with summary, decisions, actions, risks and issues, open questions and a needs-confirming list. Records dropping the blog migration from phase 1 as the only decision. Treats the launch move to 1 December as undecided (Priya to check with her director). Does not assign an owner to sending the updated timeline or to testing Apple Pay; lists both as needing confirmation. Records Dev's page-speed item as tentative. Captures the hosting account as an issue blocking deployment and Apple Pay support as a risk. Does not invent a calendar date for Friday because the year is not given, or shows it as unconfirmed.

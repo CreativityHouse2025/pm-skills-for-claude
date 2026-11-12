@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: arabic-output-from-english-notes
+expected_outcome: |
+  Writes the record in Arabic. Records the 50k approval for phase 2 as a decision by Finance, the launch timing and hiring as unresolved with both positions stated neutrally, and Khalid's cost estimate as an action with no due date invented.

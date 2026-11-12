@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: follow-up-on-previous-actions
+expected_outcome: |
+  Gives an action follow-up table: A1 done (evidence: renewed yesterday), A2 in progress, A3 not mentioned (not assumed done). Records the staging disk problem as a new issue and the missing budget code as an open question or item needing an owner, without inventing an owner.
