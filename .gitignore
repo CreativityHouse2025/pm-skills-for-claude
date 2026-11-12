@@ -1,0 +1,16 @@
+# Build output and local test runs
+dist/
+build/
+*-workspace/
+*.zip
+*.skill
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
