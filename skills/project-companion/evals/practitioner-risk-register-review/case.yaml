@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: practitioner-risk-register-review
+expected_outcome: |
+  Gives a one-sentence verdict first, then specific gaps ordered by seriousness with reworded examples in the context of the WMS rollout. Catches that risks are single words rather than cause-event-effect statements, that several risks have no owner, that all probabilities are "Medium", that responses are not actions, that the go-live date in the register (15 September) contradicts the fact sheet (1 September), and that the data migration risk named in the fact sheet is missing from the register. Does not rewrite the whole register unasked. Ends with a next step.
+context:
+  scaffold_script: place-files.sh

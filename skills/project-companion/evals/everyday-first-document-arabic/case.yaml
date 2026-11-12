@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: everyday-first-document-arabic
+expected_outcome: |
+  Replies in Arabic, in plain language suited to someone with no project training (Everyday mode). Produces a project charter (or the first core document) built only from the facts given: second branch in Al Rawdah, budget SAR 350,000, opening before next Ramadan, Faisal on operations, Mazen as interior designer, landlord has not handed over the unit. Does not invent an exact opening date, rent figure or staff count; missing facts appear as open questions or labelled assumptions. Produces or updates a project fact sheet and names one next step.

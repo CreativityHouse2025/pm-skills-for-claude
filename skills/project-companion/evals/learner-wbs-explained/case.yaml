@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: learner-wbs-explained
+expected_outcome: |
+  Builds a deliverable-oriented WBS for the career fair with coded elements down to work packages (nouns, not activities, and including project management work), using the given facts (two days, about 40 employers, 1,500 students, MYR 25,000, 8 volunteers). Explains in Learner mode why each part is there and how the WBS differs from a schedule, names the process group, and ends with a check-your-understanding question and a next step. Does not invent exact dates in April.
